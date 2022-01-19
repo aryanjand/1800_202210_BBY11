@@ -7,10 +7,15 @@
 ## General Info
 This browser based web application to ...
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi my name is Chris.
 =======
 * Hi my name is Willy. I'm excited about this project because it is tackling a problem I find interesting!
 >>>>>>> 8b42be036f5130594fbab9897257c6cbe5c1b228
+=======
+Hi guys my name is Aryan Jand. This porject excites me because we will be using Git and GitHub. This is very impportant in industary.
+
+>>>>>>> 9efb1bb (edited the read me file)
 	
 ## Technologies
 Technologies used for this project:
