@@ -6,7 +6,11 @@
 
 ## General Info
 This browser based web application to ...
+<<<<<<< HEAD
 Hi my name is Chris.
+=======
+* Hi my name is Willy. I'm excited about this project because it is tackling a problem I find interesting!
+>>>>>>> 8b42be036f5130594fbab9897257c6cbe5c1b228
 	
 ## Technologies
 Technologies used for this project:
