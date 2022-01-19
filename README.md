@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+* Hi my name is Willy. I'm excited about this project because it is tackling a problem I find interesting!
 	
 ## Technologies
 Technologies used for this project:
